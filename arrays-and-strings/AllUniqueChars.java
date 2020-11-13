@@ -1,6 +1,8 @@
+// "Implement  an  algorithm  to  determine  if  a string  has  all  unique  characters"
+
 public class AllUniqueChars {
     public static void main(String[] args) {
-        // "Implement  an  algorithm  to  determine  if  a string  has  all  unique  characters"
+
         String test = "abcdef89373"; // Solution 1
 
         String test2 = "hello";      // Solution 2
