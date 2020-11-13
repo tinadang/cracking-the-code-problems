@@ -12,7 +12,6 @@ void reverse(char *str) {
     char *right = str;    // Set the right (end of string) pointer to the start of the string
     char tmp;           // Create a temp variable to store the character to swap
     if (str) {
-        printf("HELLO");
         /*
             Start from the start of the string and loop through until we reach
             the terminating null 
