@@ -13,7 +13,7 @@ public class RotateMatrix {
             // Obtains the last index (column) for the row
             int last = n - 1 - row;
             for (int col=row; col < last; col++) {
-                // Offset for positions
+                // Offset for positions (Figure out what this means...)
                 int offset = col - row;
 
                 // Saves the top left value
