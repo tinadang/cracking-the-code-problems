@@ -1,3 +1,7 @@
+/*
+    Write a method to replace all spaces in a string with ‘%20’
+*/
+
 public class ReplaceSpace {
     public static void main(String[] args) {
         char[] test1 =  {'h', 'i', ' ', 't', 'h', 'e', 'r', 'e'};
